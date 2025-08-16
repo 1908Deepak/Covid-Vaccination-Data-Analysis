@@ -39,8 +39,6 @@ Step 3 – Data Quality Checks
 
 - Checked for null values in Country, People Vaccinated, Vaccines.
 
-- Checked for null values in Country, People Vaccinated, Vaccines.
-
 - Date fields formatted properly to enable Year/Month slicers
 
 
