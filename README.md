@@ -88,7 +88,7 @@ Step 8 - Publish to Power BI Service
 
 # Conclusion
 
-TThe COVID Vaccination Dashboard enables:
+The COVID Vaccination Dashboard enables:
 
 - Tracking global and country-level vaccination progress
 
